@@ -1,0 +1,42 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: black;
+}
+
+
+strong
+{
+    font-size: 1.2em;
+    font-weight: bold;
+    color: black; 
+}
+
+h1
+{
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+    color : greenyellow;
+}
+
+
+
+p
+{
+    text-align: center;
+    font-size: 1em;
+    color : greenyellow;
+}
+
+
+.centre 
+{
+    display: flex;
+    justify-content: center;
+    margin: 1em;
+}
+
